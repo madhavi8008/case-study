@@ -1,2 +1,4 @@
 this is my commit
 
+this is my new commit in feature2
+
